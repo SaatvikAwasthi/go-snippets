@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a536ea9-4ba7-42cf-a71f-c576692b8579" name="Changes" comment="Addin" />
+    <list default="true" id="2a536ea9-4ba7-42cf-a71f-c576692b8579" name="Changes" comment="Adding Template&#10;- Added template for HTML greeting" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -93,6 +93,14 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit" />
+    <MESSAGE value="Adding utils&#10;- panic utility" />
+    <MESSAGE value="Adding Router&#10;- gin router&#10;- router middlewares&#10;  * cors middleware&#10;  * logger middleware&#10;- constants" />
+    <MESSAGE value="Adding Service&#10;- Created service for greeting message&#10;- Adding supporting models" />
+    <MESSAGE value="Adding Template&#10;- Added template for HTML greeting" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding Template&#10;- Added template for HTML greeting" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
