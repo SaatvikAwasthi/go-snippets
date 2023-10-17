@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a536ea9-4ba7-42cf-a71f-c576692b8579" name="Changes" comment="Adding Template&#10;- Added template for HTML greeting" />
+    <list default="true" id="2a536ea9-4ba7-42cf-a71f-c576692b8579" name="Changes" comment="Adding Server&#10;- Adding server to start the router and initialise handler, services and templates.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmd/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/main.go" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -100,7 +103,9 @@
     <MESSAGE value="Adding Router&#10;- gin router&#10;- router middlewares&#10;  * cors middleware&#10;  * logger middleware&#10;- constants" />
     <MESSAGE value="Adding Service&#10;- Created service for greeting message&#10;- Adding supporting models" />
     <MESSAGE value="Adding Template&#10;- Added template for HTML greeting" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding Template&#10;- Added template for HTML greeting" />
+    <MESSAGE value="Adding Handler&#10;- Adding handlers for json as well as html routes" />
+    <MESSAGE value="Adding Server&#10;- Adding server to start the router and initialise handler, services and templates." />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding Server&#10;- Adding server to start the router and initialise handler, services and templates." />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>

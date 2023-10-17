@@ -2,6 +2,7 @@ package main
 
 import (
 	"flag"
+	"go-snips/server"
 	"log"
 	"strconv"
 )
@@ -21,4 +22,5 @@ func init() {
 }
 
 func main() {
+	server.Server(httpPort)
 }
